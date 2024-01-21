@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anilkr1997.
 - 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning Flutter full stack development and Api Devlopmen with Nodejs.
-- 💞️ I’m looking to collaborate on Devloper who teach me new technology.
+- 🌱 I’m learning Flutter full stack development and Api Development with Nodejs.
+- 💞️ I want to collaborate with developers who teach me new technology.
 - 📫 reach me Email: akmourya1997@gmail.com.
 
 <!---
