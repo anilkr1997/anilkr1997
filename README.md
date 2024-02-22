@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkr1997&label=Profile%20views&color=0e75b6&style=flat" alt="anilkr1997" /> </p>
 
+- 🌱 I’m currently learning **jetpack components ,Swift.**
+
+- 📝 I regularly write articles on [@mr.appbuilder](@mr.appbuilder)
+
+- 💬 Ask me about **java,kotlin,android,flutter**
+
+- 📫 How to reach me **akmourya1997@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -12,6 +20,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13233792/anil-kr-maurya?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13233792/anil-kr-maurya?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.appbuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.appbuilder" height="30" width="40" /></a>
 <a href="https://medium.com/@mr.appbuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mr.appbuilder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mr.appbuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.appbuilder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
